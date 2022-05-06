@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "notif",
+			"path": "."
+		},
+		{
+			"name": "icons",
+			"path": "..\\flutter_local_notifications-master\\flutter_local_notifications\\example\\icons"
+		}
+	],
+	"settings": {}
+}
